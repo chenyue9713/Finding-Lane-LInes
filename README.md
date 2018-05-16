@@ -16,8 +16,8 @@ I succesfully implement the technologies to process images and video clip to fin
     
 
 
-[Video Link](https://youtu.be/wZZ1Hnqxh9g)
-[Video Link](https://youtu.be/MYRgzR4qH7E)
+-[White Lane Video](https://youtu.be/wZZ1Hnqxh9g)
+-[Yellow Lane Video](https://youtu.be/MYRgzR4qH7E)
 
 ---
 
@@ -361,7 +361,7 @@ white_clip = clip1.fl_image(image_pipeline) #NOTE: this function expects color i
 
 ![png](images/solidwhiteright.png)
 
-[Right White Lane Detection] (https://youtu.be/wZZ1Hnqxh9g)
+[White Lane Video](https://youtu.be/wZZ1Hnqxh9g)
 
 
 Test image processing pipeline for right white lanes video clip
@@ -374,7 +374,7 @@ yellow_clip = clip2.fl_image(image_pipeline)
 ```
 
 ![png](images/solidyellowleft.png)
-[Left Yellow Lane Detection] (https://youtu.be/MYRgzR4qH7E)
+[Yellow Lane Video](https://youtu.be/MYRgzR4qH7E)
 
 
 ## Identify potential shortcomings with your current pipeline
