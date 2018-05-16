@@ -16,8 +16,9 @@ I succesfully implement the technologies to process images and video clip to fin
     
 
 
--[White Lane Video](https://youtu.be/wZZ1Hnqxh9g)
--[Yellow Lane Video](https://youtu.be/MYRgzR4qH7E)
+[White Lane Video](https://youtu.be/wZZ1Hnqxh9g)
+
+[Yellow Lane Video](https://youtu.be/MYRgzR4qH7E)
 
 ---
 
@@ -374,6 +375,8 @@ yellow_clip = clip2.fl_image(image_pipeline)
 ```
 
 ![png](images/solidyellowleft.png)
+
+
 [Yellow Lane Video](https://youtu.be/MYRgzR4qH7E)
 
 
