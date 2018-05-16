@@ -384,12 +384,16 @@ yellow_clip = clip2.fl_image(image_pipeline)
 
 
 1. My current pipeline can not handle the challenge video clip.The resason is that because challenge video have a scenario that trees will shadow the yellow lane line and also trees also will cause some noise for edge detection.
+
 2. The algorithm probably have a difficulty on sharp curve lines.
+
 3. Region of interst is set manually.
 
 
 ## Suggest possible improvements to your pipeline
 
 1.Implement color filter to mask other objects and only remain yellow lane and white lane lines.
+
 2.For sharp curve lines, we need to use other ways to average and extrapolate lines. 
+
 3.Automatically set region of interest.
