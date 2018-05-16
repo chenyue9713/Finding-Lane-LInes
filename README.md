@@ -16,8 +16,8 @@ I succesfully implement the technologies to process images and video clip to fin
     
 
 
-[Right White Lane Detection] (https://youtu.be/wZZ1Hnqxh9g)
-[Left Yellow Lane Detection] (https://youtu.be/MYRgzR4qH7E)
+[Video Link](https://youtu.be/wZZ1Hnqxh9g)
+[Video Link](https://youtu.be/MYRgzR4qH7E)
 
 ---
 
