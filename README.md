@@ -108,8 +108,9 @@ vertices = np.array([[(imshape[1]*0.15,imshape[0]),(440, 330), (520, 330), (imsh
 
 ## Hough Transform on Lane Detection
 In the project, we are using Hough Transform function from OpenCV:
+```python
 lines = cv2.HoughLinesP(img, rho, theta, threshold, np.array([]), minLineLength=min_line_len, maxLineGap=max_line_gap)
-
+```
 There are several parameter need to be set for detecting lanes:
     1. rho and theta are the distance and angular resolution in Huogh space.
     2.threshold means the minimum number of intersections in a given image.
